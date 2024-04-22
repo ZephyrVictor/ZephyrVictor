@@ -1,4 +1,4 @@
-![image](https://github.com/ZephyrVictor/ZephyrVictor/assets/132881819/0bfd8ec8-a579-49e7-b9cd-5621d4967a18)<h1 align="center">我是Zephyr#3 👋</h1>
+<h1 align="center">我是Zephyr#3 👋</h1>
 
 <p align="center">
   <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg

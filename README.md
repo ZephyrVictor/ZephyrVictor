@@ -1,7 +1,7 @@
 <h1 align="center">我是Zephyr#3 👋</h1>
 
 <p align="center">
-  <img src=(https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg" alt="梵高·盛开的杏花">
+  <img src=https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg" alt="梵高·盛开的杏花">
 </p>
 
 <p align="center">

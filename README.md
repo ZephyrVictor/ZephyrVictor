@@ -1,7 +1,8 @@
-<h1 align="center">我是Zephyr#3 👋</h1>
+![image](https://github.com/ZephyrVictor/ZephyrVictor/assets/132881819/0bfd8ec8-a579-49e7-b9cd-5621d4967a18)<h1 align="center">我是Zephyr#3 👋</h1>
 
 <p align="center">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg" alt="梵高·盛开的杏花">
+  <img src=https://github.com/ZephyrVictor/ZephyrVictor/assets/132881819/5291226f-fcc9-4c26-9df7-eb1431a79694
+" alt="梵高·盛开的杏花">
 </p>
 
 <p align="center">

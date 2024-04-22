@@ -1,11 +1,11 @@
 <h1 align="center">我是Zephyr#3 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/ZephyrVictor/ZephyrVictor/blob/main/header.png" alt="Banner about me">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg" alt="Share this picture to you">
 </p>
 
 <p align="center">
-  Passionate developer with a focus on Web Development and Open Source.
+ Zephyr#3
 </p>
 
 ---

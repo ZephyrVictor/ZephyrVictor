@@ -1,7 +1,7 @@
 <h1 align="center">
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22春江潮水连海平 海上明月共潮生%22);我是Zephyr#3&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22壁立千仞 无欲则刚%22);我是Zephyr#3&center=true&size=27" />
     </a>
   </div>
 </h1>

@@ -1,9 +1,15 @@
-<h1 align="center">我是Zephyr#3 👋</h1>
+<h1 align="center">
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);我是Zephyr#3&center=true&size=27" />
+    </a>
+  </div>
+</h1>
 
 <p align="center">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg
-" alt="梵高·盛开的杏花">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg" alt="梵高·盛开的杏花" height="1920">
 </p>
+
 
 <p align="center">
  Zephyr#3
